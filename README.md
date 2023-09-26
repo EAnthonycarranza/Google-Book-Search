@@ -42,16 +42,16 @@ SO THAT I can keep a list of books to purchase
    git clone https://github.com/EAnthonycarranza/Google-Book-Search.git
    cd Google-Book-Search
 
-  1. Install NPM Packages
+  * Install NPM Packages
 
       npm install
 
-  2. Set Up Environment Variables
+  * Set Up Environment Variables
 
     Create a .env file in the root directory.
     Add the MongoDB connection string as MONGODB_URI.
 
-  3. Start the Server
+  * Start the Server
 
     npm start
 
