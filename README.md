@@ -41,7 +41,7 @@ SO THAT I can keep a list of books to purchase
    ```sh
    git clone https://github.com/EAnthonycarranza/Google-Book-Search.git
    cd Google-Book-Search
-  ```sh
+  ```
 
   1. Install NPM Packages
 
