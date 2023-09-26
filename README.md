@@ -38,10 +38,10 @@ SO THAT I can keep a list of books to purchase
 ## Installation and Setup
 
 1. Clone the Repository
-   
+   ```sh
    git clone https://github.com/EAnthonycarranza/Google-Book-Search.git
    cd Google-Book-Search
-
+  ```
   * Install NPM Packages
 
       npm install
