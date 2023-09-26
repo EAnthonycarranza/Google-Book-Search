@@ -37,7 +37,7 @@ SO THAT I can keep a list of books to purchase
   
 ## Installation and Setup
 
-1. **Clone the Repository**
+1. Clone the Repository
    
    git clone https://github.com/EAnthonycarranza/Google-Book-Search.git
    cd Google-Book-Search
