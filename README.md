@@ -44,9 +44,8 @@ SO THAT I can keep a list of books to purchase
   ```sh
 
   1. Install NPM Packages
-      ```sh
+
       npm install
-      ```
 
   2. Set Up Environment Variables
 
@@ -54,9 +53,8 @@ SO THAT I can keep a list of books to purchase
     Add the MongoDB connection string as MONGODB_URI.
 
   3. Start the Server
-    ```sh
+
     npm start
-    ```
 
   The application will be live at http://localhost:3001
 
@@ -64,12 +62,6 @@ SO THAT I can keep a list of books to purchase
 ## Deployment
 
 The application is deployed to Heroku [here](https://google-testingbooks-c7c4f824dbd3.herokuapp.com/).
-
-## Screenshots
-
-![Description of Screenshot](URL_of_Screenshot)
-
-## License
 
 ## License
 
