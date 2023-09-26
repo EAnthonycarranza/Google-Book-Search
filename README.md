@@ -44,7 +44,7 @@ SO THAT I can keep a list of books to purchase
   ```
 
   1. Install NPM Packages
-      ```sh
+      ```bash
       npm install
       ```
 
