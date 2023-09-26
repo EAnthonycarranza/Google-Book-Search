@@ -46,7 +46,7 @@ SO THAT I can keep a list of books to purchase
   1. Install NPM Packages
      ```sh
       npm install
-    ````
+    ```
   2. Set Up Environment Variables
 
     Create a .env file in the root directory.
